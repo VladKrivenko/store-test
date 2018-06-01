@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 }
 
-.store_items {
+.storeitems {
 	display: flex;
     flex-direction: row;
     justify-content: space-around;

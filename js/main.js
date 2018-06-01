@@ -13,7 +13,7 @@ function goodsOut(data){
 		out +='<button class="add_to_cart">Buy</button>';
 		out +='</div>';
 	}
-	$('.store_items').html(out);
+	$('.storeitems').html(out);
 }
 
 $(document).ready(function(){
